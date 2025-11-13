@@ -1,0 +1,27 @@
+[
+  {
+    "id": 12,
+    "header": "New Header",
+    "note": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is known for being lightweight, easy to learn, and incrementally adoptable, meaning you can use it to power a single button or to build a full-scale single-page application.\nKey features\n"
+  },
+  {
+    "id": 58,
+    "header": "Reactivity",
+    "note": "Reactivity: Vue automatically tracks and updates the HTML when your JavaScript data changes. This is known as \"two-way data binding,\" which simplifies keeping your data and the user interface in sync.\nComponent-based architecture: Vue allows you to break down your application into small, reusable building blocks called components. Each component contains its own HTML template, logic, and styling.\n"
+  },
+  {
+    "id": 48,
+    "header": "Approachability",
+    "note": "Approachability: It is often considered a great choice for beginners due to its detailed documentation and simple syntax, which is based on standard HTML, CSS, and JavaScript.Flexibility\nYou can use Vue in a variety of ways depending on your needs:\nProgressive enhancement: Drop it into existing HTML pages to add interactivity.\nSingle-Page Application (SPA): Build a complex, full-featured application with advanced tooling."
+  },
+  {
+    "id": 23,
+    "header": "Progressive enhancement",
+    "note": "Progressive enhancement: Drop it into existing HTML pages to add interactivity.\n"
+  },
+  {
+    "id": 46,
+    "header": "SPA",
+    "note": "Single-Page Application (SPA): Build a complex, full-featured application with advanced tooling."
+  }
+]
