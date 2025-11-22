@@ -32,6 +32,9 @@ app.post('/api/save-note', async (req, res) => {
   }
 });
 
+app.get("/", async(req,res) => {
+  res.status(200).send("<h1>App is live</h1>")
+});
 app.get("/api/get-note", async (req, res) => {
   try {
     try {
